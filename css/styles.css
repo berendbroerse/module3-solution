@@ -1,0 +1,31 @@
+
+#bodyspace {
+	margin: auto;
+	width: 90%;
+	padding: 10px;
+}
+
+#longtext {
+	background-color: #E0FBFC;
+}
+
+li.divider {
+	padding: 0px;
+	margin: 0px;
+	color: black;
+	background-color: black;
+	height: 1px;
+}
+
+
+@media only screen and (max-width : 768px) {
+
+#bs-example-navbar-collapse-1.navbar-collapse.collapse.in {
+	background-color: white;
+	border-bottom: 1px solid black;
+}
+
+}
+
+
+
