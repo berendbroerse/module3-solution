@@ -5,6 +5,10 @@
 	padding: 10px;
 }
 
+.navbar {
+	margin-bottom: 0px;
+}
+
 #longtext {
 	background-color: #E0FBFC;
 }
