@@ -9,8 +9,13 @@
 	margin-bottom: 0px;
 }
 
+
+.row {
+	margin: 10px;
+}
+
 #longtext {
-	background-color: #E0FBFC;
+	background-color: #E0FBFC
 }
 
 li.divider {
